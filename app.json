@@ -1,0 +1,40 @@
+{
+  "pages":[
+    "pages/index/index",
+    "pages/discovery/discovery",
+    "pages/more/more",
+    "pages/answer/answer"
+    ],
+  "window":{
+    "backgroundTextStyle":"light",
+    "navigationBarBackgroundColor": "#0068C4",
+    "navigationBarTitleText": "首页",
+    "navigationBarTextStyle":"white"
+  },
+  "tabBar": {
+    "color": "#626567",
+    "selectedColor": "#2A8CE5",
+    "backgroundColor": "#FBFBFB",
+    "borderStyle": "white",
+    "list": [{
+      "pagePath": "pages/index/index",
+      "text": "Home",
+      "iconPath": "images/index.png",
+      "selectedIconPath": "images/index_focus.png"
+    }, {
+      "pagePath": "pages/discovery/discovery",
+      "text": "发现",
+      "iconPath": "images/discovery.png",
+      "selectedIconPath": "images/discovery_focus.png"
+    }, {
+      "pagePath": "pages/more/more",
+      "text": "More",
+      "iconPath": "images/burger.png",
+      "selectedIconPath": "images/burger_focus.png"
+    }]
+  },
+  "networkTimeout": {
+    "request": 10000,
+    "downloadFile": 10000
+  }
+}
