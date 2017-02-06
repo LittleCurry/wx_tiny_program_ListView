@@ -8,6 +8,7 @@ Page({
     feed_length: 0
   },
 
+  // test4
   // test3
   //事件处理函数
   // just a test1
