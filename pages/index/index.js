@@ -7,7 +7,7 @@ Page({
     feed: [],
     feed_length: 0
   },
-
+  //ghjghgj
   // test4
   // test3
   //事件处理函数
