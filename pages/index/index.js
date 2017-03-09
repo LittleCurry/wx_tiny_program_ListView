@@ -8,7 +8,6 @@ Page({
     feed_length: 0
   },
   //ghjghgj
-  ///////////////////////////////
   // wwww
   // test4
   // test3
