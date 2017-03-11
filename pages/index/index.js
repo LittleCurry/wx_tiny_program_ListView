@@ -9,8 +9,6 @@ Page({
   },
   //ghjghgj
   // wwww
-  // test4
-  // test3
   //事件处理函数
   // just a test1
   // just a test2
