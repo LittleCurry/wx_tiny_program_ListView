@@ -7,11 +7,6 @@ Page({
     feed: [],
     feed_length: 0
   },
-  //ghjghgj
-  // wwww
-  //事件处理函数
-  // just a test1
-  // just a test2
   bindItemTap: function() {
     wx.navigateTo({
       url: '../answer/answer'
