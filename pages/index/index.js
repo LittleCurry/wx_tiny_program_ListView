@@ -12,7 +12,6 @@ Page({
       url: '../answer/answer'
     })
   },
-  ///////////////////////////
   bindQueTap: function() {
     wx.navigateTo({
       url: '../question/question'
