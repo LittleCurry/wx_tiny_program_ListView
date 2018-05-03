@@ -64,7 +64,7 @@
         <image src="../../images/zhi.png"></image>
       </view>
       <view class="myitem-name flex-item">
-        <text>我的值乎</text>
+        <text>我的知乎</text>
       </view>
     </view>
 
