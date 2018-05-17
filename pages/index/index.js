@@ -17,7 +17,7 @@ Page({
       url: '../question/question'
     })
   }, 
-//////////////////
+/////////////////
   onLoad: function () {
     console.log('onLoad')
     var that = this
